@@ -20,9 +20,7 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # Environment files
-.env*.local
-.env
-!.env.example
+
 
 # Vercel & serverless
 .vercel
